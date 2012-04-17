@@ -24,17 +24,17 @@
 /**
  * Set this to a short message to customize the friendly AJAX error
  */
-//define( 'PIE_EASY_ERROR_AJAX_MESSAGE', 'Woops! We forgot to feed the server, sorry!' );
+//define( 'ICE_ERROR_AJAX_MESSAGE', 'Woops! We forgot to feed the server, sorry!' );
 
 /**
  * Set this to an absolute path to a custom friendly fatal error page
  */
-//define( 'PIE_EASY_ERROR_PAGE_PATH', '/path/to/my/error.php' );
+//define( 'ICE_ERROR_PAGE_PATH', '/path/to/my/error.php' );
 
 /**
  * Set this to false to disable caching of dynamically generated
  * CSS and Javascript. Highly recommended for development.
  */
-//define( 'PIE_EASY_CACHE_EXPORTS', false );
+//define( 'ICE_CACHE_EXPORTS', false );
 
 ?>
