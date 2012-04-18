@@ -1,1 +1,1 @@
-This directory is for feature component extensions class and template files.
+This directory is for widget extension packages.
